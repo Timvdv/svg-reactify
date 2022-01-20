@@ -29,7 +29,7 @@
         "lodash.kebabcase"   : "^4.0.1",
         "svgo"               : "^0.6.6",
         "through2"           : "^2.0.1"
-    }
+    },
     "devDependencies" : {
         "babel-cli"              : "^6.10.1",
         "babel-eslint"           : "^6.1.0",
